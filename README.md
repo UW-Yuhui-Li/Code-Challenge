@@ -10,20 +10,6 @@
 
 <p>This repository contains my submission for the Wisconsin Autonomous Perception Coding Challenge. The challenge is designed to evaluate my problem-solving approach in computer vision, with a focus on using OpenCV to detect the boundaries of a path defined by cones in an image.</p>
 
-<h2>Challenge Description</h2>
-
-<p>The goal of this challenge is to create a perception algorithm that detects the boundaries of a straight path defined by cones as captured by a camera mounted on a vehicle. The algorithm should identify the boundary lines and save the resulting image with the drawn lines as <code>answer.png</code>.</p>
-
-<h3>Input:</h3>
-<ul>
-    <li>An image of a path defined by cones (e.g., "input_image.png").</li>
-</ul>
-
-<h3>Output:</h3>
-<ul>
-    <li>The same image with boundary lines drawn on it, saved as <code>answer.png</code>.</li>
-</ul>
-
 <h2>Solution Overview</h2>
 
 <h3>Methodology</h3>
