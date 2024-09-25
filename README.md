@@ -86,9 +86,5 @@ cd wisconsin-perception-challenge
 <h2>Notes</h2>
 <p>The code is modular and documented to improve readability. Feel free to modify parameters such as the threshold values and blur kernels to adapt to different images. The solution can be further improved by incorporating machine learning techniques to classify and detect cones more accurately in complex environments.</p>
 
-<h2>Contact</h2>
-
-<p>Email: <a href="yli2498@wisc.edu">yli2498@wisc.edu</a></p>
-
 </body>
 </html>
