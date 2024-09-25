@@ -61,8 +61,8 @@
 
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/wisconsin-perception-challenge.git
-cd wisconsin-perception-challenge
+        <pre><code>git clone [https://github.com/yourusername/wisconsin-perception-challenge.git
+cd wisconsin-perception-challenge](https://github.com/UW-Yuhui-Li/Code-Challenge.git)
         </code></pre>
     </li>
     <li><strong>Install the dependencies:</strong>
