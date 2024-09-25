@@ -69,7 +69,6 @@ cd wisconsin-perception-challenge
         <pre><code>pip install -r requirements.txt</code></pre>
     </li>
     <li><strong>Run the Code:</strong>
-        <p>If Python:</p>
         <pre><code>python detect_boundaries.py input_image.png</code></pre>
     </li>
     <li><strong>Output:</strong>
