@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wisconsin Autonomous Perception Coding Challenge</title>
 </head>
 <body>
 
@@ -82,12 +81,10 @@ cd wisconsin-perception-challenge
     </li>
     <li><strong>Install the dependencies:</strong>
         <pre><code>pip install -r requirements.txt</code></pre>
-        <p>For C++, ensure OpenCV is installed and properly linked to your project.</p>
     </li>
     <li><strong>Run the Code:</strong>
         <p>If Python:</p>
         <pre><code>python detect_boundaries.py input_image.png</code></pre>
-        <p>If C++: Compile and run the code with appropriate flags for OpenCV.</p>
     </li>
     <li><strong>Output:</strong>
         <p>The processed image will be saved as <code>answer.png</code>.</p>
@@ -105,9 +102,8 @@ cd wisconsin-perception-challenge
 <p>The code is modular and documented to improve readability. Feel free to modify parameters such as the threshold values and blur kernels to adapt to different images. The solution can be further improved by incorporating machine learning techniques to classify and detect cones more accurately in complex environments.</p>
 
 <h2>Contact</h2>
-<p>If you have any questions, feel free to reach out to me or the Wisconsin Autonomous Perception team for high-level queries.</p>
 
-<p>Email: <a href="mailto:sdabbara@wisc.edu">sdabbara@wisc.edu</a> (with "[WA]" in the subject line)</p>
+<p>Email: <a href="yli2498@wisc.edu">sdabbara@wisc.edu</a> (with "[WA]" in the subject line)</p>
 
 </body>
 </html>
