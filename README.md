@@ -89,7 +89,7 @@ cd wisconsin-perception-challenge
 
 <h2>Contact</h2>
 
-<p>Email: <a href="yli2498@wisc.edu">sdabbara@wisc.edu</a> (with "[WA]" in the subject line)</p>
+<p>Email: <a href="yli2498@wisc.edu">yli2498@wisc.edu</a></p>
 
 </body>
 </html>
