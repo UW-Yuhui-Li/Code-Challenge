@@ -83,8 +83,5 @@ cd wisconsin-perception-challenge
     <li><a href="https://docs.opencv.org/4.x/da/d6e/tutorial_py_houghlines.html">Hough Line Transformation</a></li>
 </ul>
 
-<h2>Notes</h2>
-<p>The code is modular and documented to improve readability. Feel free to modify parameters such as the threshold values and blur kernels to adapt to different images. The solution can be further improved by incorporating machine learning techniques to classify and detect cones more accurately in complex environments.</p>
-
 </body>
 </html>
